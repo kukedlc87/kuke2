@@ -7,5 +7,9 @@ Console.WriteLine("Hello, World!");
 object[] vivaLaPepa = null;
 
 
+<<<<<<< HEAD
 try { }
 catch { }
+=======
+// unos cambios mas
+>>>>>>> 74e5d905a840b7fe92172818ed66afc15b06d39e
