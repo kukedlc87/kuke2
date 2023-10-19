@@ -1,6 +1,7 @@
 {
   "version": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "kInvjUGy5NUtxCD8CWJEYaggVygX78quqQtfs9KjcnEK6uykqJDg2CRt9xQ12uXw+E1QwC0dnFOI9YC9vU5D3Q==",
   "success": true,
   "projectFilePath": "C:\\kuke3\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
@@ -9,6 +10,11 @@
   "success": true,
   "projectFilePath": "C:\\Users\\joseg\\OneDrive\\Escritorio\\practica git\\kuke2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
 >>>>>>> 95bd6f8217290ac973984f443b0758f49680df1e
+=======
+  "dgSpecHash": "uGKQRCEvaH14p1dqGaL6jGVvW6XVA8Q6zCJ7BIAwM5VZpfyf+j5W0AeEv7qmDJ7f7DCmEqqYz+FP/PmX46yldg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rami\\Desktop\\Proyectos\\Git\\kuke2\\kuke2\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+>>>>>>> 06030f525e5999111e20c25f62e4bd3418b61eda
   "expectedPackageFiles": [],
   "logs": []
 }
