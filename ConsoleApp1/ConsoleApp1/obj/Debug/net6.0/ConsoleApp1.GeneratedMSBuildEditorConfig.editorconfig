@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp1
+<<<<<<< HEAD
 build_property.ProjectDir = C:\kuke3\ConsoleApp1\ConsoleApp1\
+=======
+build_property.ProjectDir = C:\Users\Rami\Desktop\Proyectos\Git\kuke2\kuke2\ConsoleApp1\ConsoleApp1\
+>>>>>>> 877c7c1a25579c91694a916cd62ee6604a29c521
